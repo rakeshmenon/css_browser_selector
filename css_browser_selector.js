@@ -30,7 +30,7 @@ v0.6.3 2014-03-06
         @see http://msdn.microsoft.com/en-us/library/ie/bg182625(v=vs.85).aspx
 */
 
-showLog=true;
+showLog=false;
 function log(m) {if ( window.console && showLog ) {console.log(m); }  }
 
 function css_browser_selector(u) {
