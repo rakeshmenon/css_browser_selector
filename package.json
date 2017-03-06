@@ -1,8 +1,8 @@
 {
   "name": "css-browser-selector",
-  "version": "0.6.3.1",
+  "version": "0.6.5",
   "description": "CSS Browser Selector is a very small javascript which empowers CSS selectors with platform-specific classes",
-  "main": "css_browser_selector.js",
+  "main": "css_browser_selector.min.js",
   "directories": {
     "test": "tests"
   },

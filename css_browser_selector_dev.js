@@ -1,5 +1,5 @@
 /*
-CSS Browser Selector 0.6.3
+CSS Browser Selector 0.6.5
 Originally written by Rafael Lima (http://rafael.adm.br)
 http://rafael.adm.br/css_browser_selector
 License: http://creativecommons.org/licenses/by/2.5/
